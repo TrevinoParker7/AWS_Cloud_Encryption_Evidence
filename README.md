@@ -1,5 +1,9 @@
 # 🕶️ Cloud Encryption Evidence Lab
 
+<img width="790" height="475" alt="image" src="https://github.com/user-attachments/assets/db77d359-1b14-45bd-bb2b-139697d1013c" />
+
+<img width="1040" height="895" alt="image" src="https://github.com/user-attachments/assets/44da8b06-498c-4ccd-99c4-2a5a254a2c6c" />
+
 > *"What is encryption? Control? Compliance? Or... an illusion?"*  
 > — Morpheus, probably auditing your AWS account
 
