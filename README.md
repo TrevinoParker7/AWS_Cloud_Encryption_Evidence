@@ -1,5 +1,7 @@
 # 🕶️ Cloud Encryption Evidence Lab
 
+<img width="1500" height="927" alt="image" src="https://github.com/user-attachments/assets/3a1739bc-7ebb-4126-a5b8-77a90561a202" />
+
 <img width="1180" height="1177" alt="image" src="https://github.com/user-attachments/assets/eea80a49-a14e-40ac-8b2e-05302a2b179e" />
 
 <img width="790" height="475" alt="image" src="https://github.com/user-attachments/assets/db77d359-1b14-45bd-bb2b-139697d1013c" />
